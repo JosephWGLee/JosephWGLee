@@ -1,5 +1,5 @@
 ## 
-- Hi, I'm Joseph, an early career scientist with a background in T Cell Receptor and Antibody Therapeutics who is currently learning bioinformatics with a specific interest in Machine Learning and its applications in this field. 
+- Hi, I'm Joseph, a scientist with a background in T Cell Receptor and Antibody Therapeutics who is currently studying Machine Learning and its applications in this field. 
 - This Github acts as a way for me to keep track of any projects I am working or collaborating on.
 - My current project is focused on machine learning and the further development of a Gaussian Process regression method (GPcounts) for RNA-Seq.
 - https://github.com/ManchesterBioinference/GPcounts
