@@ -1,6 +1,6 @@
 ## 
-- Hi, I'm Joseph, a scientist who is currently studying Machine Learning and its applications in this field. 
-- This Github acts as a way for me to keep track of any projects I am working or collaborating on.
+- Hello, I'm Joseph, a scientist who is currently studying Machine Learning and its applications within biology. 
+- This Github acts as a way for me show any projects I have written.
 - My current project is focused on machine learning and the further development of a Gaussian Process regression method (GPcounts) for RNA-Seq.
 - https://github.com/ManchesterBioinference/GPcounts
 
