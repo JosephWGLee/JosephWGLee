@@ -1,9 +1,7 @@
 ## 
-- Hello, I'm Joseph, a scientist who is currently studying Machine Learning and its applications within biology. 
-- This Github acts as a way for me show any projects I have written.
-- My current project is focused on machine learning and the further development of a Gaussian Process regression method (GPcounts) for RNA-Seq.
-- https://github.com/ManchesterBioinference/GPcounts
-
+- Hello, I'm Joseph, a scientist who is currently studying Machine Learning and its applications within biology
+- This Github acts as a way for me show any projects I have worked on
+- Previous work includes Bayesian Machine Learning approaches for modelling gene expression time series, and analysing Boltz-2 and Chai-1 predictive ligand binding in low-homology contexts 
 <!--
 **JosephWGLee/JosephWGLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
