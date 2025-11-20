@@ -1,5 +1,5 @@
 ## 
-- 🔭 I am a postgraduate student at the University of Manchester with a background in antibody and TCR therapeutics. My interests are in applying macgine learning to solve problems in structural biology.
+- 🔭 I am a postgraduate student at the University of Manchester with a background in antibody and TCR therapeutics. My interests are in applying machine learning in structural biology and drug design.
   
 - 🌱 I have previously developed and optimised a Bayesian Machine Learning approach for modelling gene expression time series under the supervision of [Professor Magnus Rattray](https://research.manchester.ac.uk/en/persons/magnus.rattray/), and have stress-tested Boltz and Chai predictive ligand binding in low-homology contexts under the supervision of [Professor Simon Lovell](https://research.manchester.ac.uk/en/persons/simon.lovell).
   
