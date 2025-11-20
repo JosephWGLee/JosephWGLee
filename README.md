@@ -1,7 +1,9 @@
 ## 
-- Hello, I'm Joseph, a scientist who is currently studying Machine Learning and its applications within biology
-- This Github acts as a way for me show any projects I have worked on
-- Previous work includes Bayesian Machine Learning approaches for modelling gene expression time series, and analysing Boltz-2 and Chai-1 predictive ligand binding in low-homology contexts 
+- 🔭 I am a postgraduate student at the University of Manchester with a background in antibody and TCR therapeutics. My interests are in applying macgine learning to solve problems in structural biology. 
+- 🌱 I have previously developed and optimised a Bayesian Machine Learning approach for modelling gene expression time series under the supervision of Professor Magnus Rattray, and have stress-tested Boltz and Chai predictive ligand binding in low-homology contexts under the supervision of Professor Simon Lovell.
+- 📫
+- LinkedIn:https://www.linkedin.com/in/joseph-lee-0aa0b6208/
+- email: josephwglee@gmail.com
 <!--
 **JosephWGLee/JosephWGLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
