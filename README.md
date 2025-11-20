@@ -1,8 +1,8 @@
 ## 
 - 🔭 I am a postgraduate student at the University of Manchester with a background in antibody and TCR therapeutics. My interests are in applying macgine learning to solve problems in structural biology. 
-- 🌱 I have previously developed and optimised a Bayesian Machine Learning approach for modelling gene expression time series under the supervision of Professor Magnus Rattray, and have stress-tested Boltz and Chai predictive ligand binding in low-homology contexts under the supervision of Professor Simon Lovell.
+- 🌱 I have previously developed and optimised a Bayesian Machine Learning approach for modelling gene expression time series under the supervision of [Professor Magnus Rattray](https://research.manchester.ac.uk/en/persons/magnus.rattray/), and have stress-tested Boltz and Chai predictive ligand binding in low-homology contexts under the supervision of [Professor Simon Lovell](https://research.manchester.ac.uk/en/persons/simon.lovell).
 - 📫
-- LinkedIn:https://www.linkedin.com/in/joseph-lee-0aa0b6208/
+- LinkedIn: https://www.linkedin.com/in/joseph-lee-0aa0b6208/
 - email: josephwglee@gmail.com
 <!--
 **JosephWGLee/JosephWGLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
